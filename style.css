@@ -1,6 +1,6 @@
-hi{
+/* hi{ 
     color: aqua;
-}
+}*/
 
 /* BOXES DIMENSIONS */
 /*div{ 
@@ -11,4 +11,15 @@ hi{
 /*p{
     width: 90%;
 }*/
+
+/* LIMITING WIDTH */
+/*td.description{
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+}*/
+
+/* LIMITING HEIGHT */
 
