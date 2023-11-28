@@ -36,4 +36,77 @@ h2 {
         border: 1px solid blueviolet;
     }*/
 
-    
+    /* OVERFLOW */
+    /*P{
+        max-height: 50px;
+        border: 1px solid blueviolet;
+        overflow: scroll;
+    }*/
+
+    /* BORDER WIDTH */
+    /*p{
+        border-style: solid;
+        border-left: 1px 2px 3px 4px;
+    }*/
+
+    /* BORDER STYLE */
+    /*P{
+     border-style: groove;
+     border-color:orangered ;
+   }*/
+
+   /* PADDING */
+   /*p{
+    border: 3px solid seagreen;
+    padding: 10px 20px 30px 40px;
+   }*/
+
+   /* MARGIN */
+   /*p{
+    border: 3px solid seagreen;
+    margin: 12px 13px 13px 14px;
+   }*/
+
+   /* CENTREING CONTENT */
+   p{
+    border: 3px solid maroon;
+    width: 300px;
+    padding: 50px;
+   }
+
+   /*p.example {
+    margin: 10px auto 10px auto;
+    text-align: left;}*/
+
+
+    /* CHANGE IN LINE BLOCK */
+    /*li{
+        display: inline;
+        margin-left: 10px;
+    }*/
+    /*li.coming-soon{
+        display: none;
+    }*/
+
+    /* HIDING BOXES */
+     /*li{
+        display: inline;
+        margin-right: 10px;
+     }*/
+
+    /*li.coming-soon{
+        visibility: hidden;
+    }*/
+
+    /* BORDER IMAGES */
+    /*.one{
+        border: 10px solid transparent;
+        padding: 15px;
+        border-image: url("flower-img.webp")30 round;
+    }*/
+
+    /* BOX SHADOW */
+    .one{
+         width: 200px;
+         box-shadow: 0 0 10px;
+    }
